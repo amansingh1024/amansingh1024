@@ -31,7 +31,6 @@ Tech Stack:
 Fun Facts:
 - ⚽ Football fan
 - 📖 Love learning new AI technologies
-- 🌍 Planning for a Master's in AI/Data Science
 - 🚀 Building projects one commit at a time
 
 Thanks for stopping by!
