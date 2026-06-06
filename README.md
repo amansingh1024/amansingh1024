@@ -1,36 +1,20 @@
-# Hey there! 👋
+# Hi, I'm Aman 👋
 
-I'm Aman, an AI & Data Science graduate from India.
+AI & Data Science Graduate | Aspiring Machine Learning Engineer
 
-I build machine learning, deep learning, and AI-powered applications that solve real-world problems.
+I enjoy turning data into intelligent systems and ideas into working products.
 
-Currently exploring:
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🔍 RAG & LLM Applications
-- 📊 Data Science
-- ☁️ AI Deployment & MLOps
+From recommendation systems to computer vision applications, I build projects that help me learn and create real-world impact.
 
-My goal is to become a Machine Learning Engineer and contribute to impactful AI products.
+### What I'm working on
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG Applications
+- Data Science
 
-Some projects you'll find here:
-- 📚 Book Recommendation System
-- 🩺 DermaVision AI (Skin Disease Detection)
-- 📈 Data Analytics & Machine Learning Projects
-- 🔬 Deep Learning Experiments
+### Current Goal
+Become an industry-ready Machine Learning Engineer by mastering the complete AI stack from data to deployment.
 
-Tech Stack:
-- Python
-- Pandas, NumPy
-- Scikit-Learn
-- TensorFlow, PyTorch
-- Streamlit
-- SQL
-- Git & GitHub
-
-Fun Facts:
-- ⚽ Football fan
-- 📖 Love learning new AI technologies
-- 🚀 Building projects one commit at a time
-
-Thanks for stopping by!
+### Motto
+"Learn, Build, Improve, Repeat."
